@@ -1,0 +1,714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-03-16 15:27+0500\n"
+"PO-Revision-Date: 2016-03-16 15:28+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ubcpi.py\n"
+
+#: ubcpi/static/html/ubcpi_edit.html:133
+msgid ""
+"\"Simple\" means examples for different answer possibilities are "
+"intentionally selected when students are viewing peer answers.<br>\"Random\" "
+"means examples are selected at random and may not include different answer "
+"possibilities."
+msgstr ""
+"\"Đơn giản\" nghĩa là các ví dụ cho các khả năng trả lời khác nhau được "
+"chọn một cách có chủ ý khi người học xem các câu trả lời của bạn học.<br>\"Ngẫu nhiên\" "
+"nghĩa là các ví dụ được chọn ngẫu nhiên và có thể không bao gồm các khả năng trả lời khác nhau."
+
+#: ubcpi/static/js/partials/ubcpi-answer-result.html:8
+msgid "(You chose this option)"
+msgstr "(Bạn chọn tùy chọn này)"
+
+#: ubcpi/static/js/src/ubcpi-barchart-directive.js:77
+msgid "(including you)"
+msgstr "(bao gồm bạn)"
+
+#: ubcpi/static/html/ubcpi.html:161 ubcpi/static/html/ubcpi.html:9
+msgid "({{weight}} point possible)"
+msgstr "({{weight}} điểm)"
+
+#: ubcpi/static/html/ubcpi.html:10 ubcpi/static/html/ubcpi.html:162
+msgid "({{weight}} points possible)"
+msgstr "({{weight}} điểm)"
+
+#: ubcpi/static/html/ubcpi.html:177 ubcpi/static/html/ubcpi.html:179
+#: ubcpi/static/html/ubcpi.html:35
+msgid ", Completed"
+msgstr ", đã hoàn thành"
+
+#: ubcpi/static/html/ubcpi.html:181 ubcpi/static/html/ubcpi.html:26
+#: ubcpi/static/html/ubcpi.html:37
+msgid ", In Progress"
+msgstr ", Đang thực hiện"
+
+#: ubcpi/static/html/ubcpi.html:28 ubcpi/static/html/ubcpi.html:30
+#: ubcpi/static/html/ubcpi.html:39
+msgid ", Upcoming"
+msgstr ", Sắp tới"
+
+#: ubcpi/static/html/ubcpi_edit.html:39
+msgid "Add Image To Question"
+msgstr "Thêm hình ảnh cho câu hỏi"
+
+#: ubcpi/static/html/ubcpi_edit.html:103
+msgid "Add New Answer"
+msgstr "Thêm câu trả lời mới"
+
+#: ubcpi/static/html/ubcpi_edit.html:169
+msgid "Add New Example"
+msgstr "Thêm ví dụ mới"
+
+#: ubcpi/static/html/ubcpi_edit.html:151
+msgid ""
+"Add example answers to the answer pool for this question. Students most "
+"likely to see these answers are those completing the assignment first, when "
+"the answer pool is small."
+msgstr ""
+"Thêm các câu trả lời mẫu cho câu hỏi này. Những người học "
+"trả lời sớm thường sẽ thấy các câu trả lời mẫu này, khi số lượng câu trả lời ít."
+
+#: ubcpi/static/html/ubcpi_edit.html:87
+msgid ""
+"Add the text for this answer. If you wish to add an image, press the button "
+"below."
+msgstr ""
+"Thêm văn bản cho câu trả lời này. Nếu bạn muốn thêm một hình ảnh, hãy nhấn nút bên dưới."
+
+#: ubcpi/static/html/ubcpi_edit.html:97
+msgid ""
+"Alternative text - a description of the image for non-visual users. The "
+"description should provide all the information needed for someone to answer "
+"the question if the image did not load."
+msgstr ""
+"Văn bản thay thế - mô tả hình ảnh cho người dùng không tải được ảnh. "
+"Mô tả phải cung cấp tất cả thông tin cần thiết để ai đó trả lời "
+"câu hỏi nếu hình ảnh không tải."
+
+#: ubcpi/static/html/ubcpi.html:177 ubcpi/static/html/ubcpi.html:26
+#: ubcpi/static/html/ubcpi.html:35
+msgid "Answer"
+msgstr "Câu trả lời"
+
+#: ubcpi/static/html/ubcpi_edit.html:86
+msgid "Answer {{$index + 1}}"
+msgstr "Câu trả lời {{$index + 1}}"
+
+#: ubcpi/static/html/ubcpi_edit.html:140
+msgid "Answers Students See - Number Selected <font color=\"red\">*</font>"
+msgstr "Các câu trả lời người học thấy - Số lượng chọn <font color=\"red\">*</font>"
+
+#: ubcpi/static/html/ubcpi_edit.html:132
+msgid "Answers Students See - Selection Logic <font color=\"red\">*</font>"
+msgstr "Các câu trả lời người học thấy - Lựa chọn Logic <font color=\"red\">*</font>"
+
+#: ubcpi/static/html/ubcpi.html:118 ubcpi/static/html/ubcpi_edit.html:194
+msgid "Cancel"
+msgstr "Hủy"
+
+#: ubcpi/static/html/ubcpi_edit.html:95
+msgid ""
+"Choose if you want the image to appear above or below the question text."
+msgstr "Chọn nếu bạn muốn hình hảnh xuất hiện bên trên hoặc bên dưới câu hỏi."
+
+#: ubcpi/static/html/ubcpi_edit.html:50
+msgid "Choose if you want the image to appear above or below the question."
+msgstr "Chọn nếu bạn muốn hình ảnh xuất hiện bên trên hoặc bên dưới câu hỏi."
+
+#: ubcpi/static/html/ubcpi_edit.html:115
+msgid ""
+"Choose the answer you consider correct, or select \"n/a\" if there is no "
+"correct answer."
+msgstr "Chọn câu trả lời bạn cho là đúng, hoặc chọn \"n/a\" nếu không có câu trả lời đúng."
+
+#: ubcpi/static/html/ubcpi_edit.html:158
+msgid "Choose the answer."
+msgstr "Chọn câu trả lời"
+
+#: ubcpi/static/js/src/ubcpi-barchart-directive.js:81
+msgid "Chose after revision"
+msgstr "Lựa chọn sau khi sửa đổi"
+
+#: ubcpi/static/js/src/ubcpi-barchart-directive.js:81
+msgid "Chose initially"
+msgstr "Lựa chọn ban đầu"
+
+#: ubcpi/static/html/ubcpi_edit.html:114
+msgid "Correct Answer <font color=\"red\">*</font>"
+msgstr "Câu trả lời đúng <font color=\"red\">*</font>"
+
+#: ubcpi/static/html/ubcpi.html:138 ubcpi/static/html/ubcpi.html:204
+msgid "Correct Answer:"
+msgstr "Câu trả lời đúng:"
+
+#: ubcpi/static/js/partials/ubcpi-answer-result.html:7
+msgid "Correct Option"
+msgstr "Lựa chọn đúng"
+
+#: ubcpi/static/html/ubcpi_edit.html:28
+msgid ""
+"Defines the number of points each problem is worth. If the value is not set, "
+"the problem is worth the sum of the option point values."
+msgstr ""
+"Xác định điểm mỗi câu hỏi. Nếu giá trị không được đặt, "
+"câu hỏi sẽ có điểm bằng tổng điểm các lựa chọn."
+
+#: ubcpi/static/html/ubcpi_edit.html:18
+msgid "Display Name <font color=\"red\">*</font>"
+msgstr "Tên hiển thị <font color=\"red\">*</font>"
+
+#: ubcpi/static/js/src/ubcpi.js:124
+msgid "Error refreshing answers from other students"
+msgstr "Lỗi khi làm mới câu trả lời từ các người học khác"
+
+#: ubcpi/static/js/src/ubcpi.js:295
+msgid "Error retrieving data!"
+msgstr "Lỗi truy vấn dữ liệu!"
+
+#: ubcpi/static/js/src/ubcpi.js:283
+msgid "Error retrieving statistics!"
+msgstr "Lỗi truy vấn thống kê!"
+
+#: ubcpi/static/js/src/ubcpi_edit.js:163
+msgid "Error saving question"
+msgstr "Lỗi lưu câu hỏi"
+
+#: ubcpi/static/js/src/ubcpi.js:260
+msgid "Error submitting answer!"
+msgstr "Lỗi nộp câu trả lời!"
+
+#: ubcpi/static/html/ubcpi_edit.html:157
+msgid "Example Answer {{$index + 1}}"
+msgstr "Câu trả lời mẫu {{$index + 1}}"
+
+#: ubcpi/static/html/ubcpi_edit.html:150
+msgid "Example Answers <font color=\"red\">*</font>"
+msgstr "Các câu trả lời mẫu <font color=\"red\">*</font>"
+
+#: ubcpi/static/html/ubcpi.html:80
+msgid "Explain to other students why you chose this answer (required):"
+msgstr "Giải thích với các bạn học khác tại sao bạn lại chọ câu trả lời này (bắt buộc):"
+
+#: ubcpi/static/html/ubcpi_edit.html:163
+msgid "Explanation"
+msgstr "Giải thích"
+
+#: ubcpi/static/html/ubcpi_edit.html:122
+msgid "Explanation (optional)"
+msgstr "Giải thích (không bắt buộc)"
+
+#: ubcpi/static/html/ubcpi_edit.html:121
+msgid "Explanation <font color=\"red\">*</font>"
+msgstr "Giải thích <font color=\"red\">*</font>"
+
+#: ubcpi/static/html/ubcpi_edit.html:12
+msgid ""
+"First, the learner answers a multiple choice question and provides an "
+"explanation for the answer. Next, the learner sees answers and explanations "
+"submitted by other learners. After reflecting on these peer responses, the "
+"learner can make revisions and submit a final answer and explanation. "
+"Finally, the learner sees the correct answer, if supplied, and any "
+"explanation that you provided for it."
+msgstr ""
+"Trước tiên, người học trả lời một câu hỏi nhiều lựa chọn và cung cấp một "
+"giải thích cho câu trả lời. Tiếp theo, người học sẽ thấy câu trả lời và giải thích  "
+"được nộp bởi những người học khác. Sau đó đối chiếu các câu trả lời từ bạn học, "
+"người học có thể sửa lại câu trả lời và nộp câu trả lời cuối cùng với giải thích. "
+"Cuối cùng, người học sẽ thấy câu trả lời đúng, nếu được cung cấp, và giải thích mà bạn cung cấp."
+
+#: ubcpi/static/html/ubcpi.html:99
+msgid ""
+"In the next step, you will be shown a selection of other responses that may "
+"help you refine your answer."
+msgstr "Trong bước tiếp theo, bạn sẽ thấy các lựa chọn của bạn học khác, "
+"điều này có thể giúp bạn cải thiện câu trả lời của mình."
+
+#: ubcpi/static/html/ubcpi_edit.html:69
+msgid "Maximum Characters <font color=\"red\">*</font>"
+msgstr "Số ký tự tối đa <font color=\"red\">*</font>"
+
+#: ubcpi/static/html/ubcpi_edit.html:62
+msgid "Minimum Characters <font color=\"red\">*</font>"
+msgstr "Số ký tự tối thiểu <font color=\"red\">*</font>"
+
+#: ubcpi/static/html/ubcpi.html:104
+msgid "Next Step"
+msgstr "Bước tiếp theo"
+
+#: ubcpi/static/js/src/d3-pibar.js:189 ubcpi/static/js/src/d3-pibar.js:36
+msgid "Not enough data to generate the chart. Please check back later."
+msgstr "Không đủ dữ liệu để tạo biểu đồ. Vui lòng xem lại sau."
+
+#: ubcpi/static/html/ubcpi.html:89
+msgid "Note:"
+msgstr "Lưu ý:"
+
+#: ubcpi/static/js/partials/ubcpi-answer-result.html:6
+msgid "Option {{ $index + 1 }}"
+msgstr "Lựa chọn {{ $index + 1 }}"
+
+#: ubcpi/static/html/ubcpi_edit.html:10
+msgid "Peer Instruction"
+msgstr "Hướng dẫn đồng đẳng"
+
+#: ubcpi/static/html/ubcpi_edit.html:11
+msgid ""
+"Peer instruction problems give learners more interactive engagement while "
+"they complete a multiple choice question that may or may not have a correct "
+"answer. The tool supports deeper consideration of the learner’s "
+"understanding of a concept and the correctness (if applicable) of an initial "
+"answer. Learners complete these problems in three steps."
+msgstr ""
+"Các câu hỏi Hướng dẫn đồng đẳng (Peer instruction) giúp người học tương tác "
+"nhiều hơn khi họ làm câu hỏi nhiều lựa chọn (Multiple choice) có thể có câu trả lời "
+"đúng hoặc không. Công cụ này hỗ trợ xem xét sâu hơn về sự hiểu biết của người học "
+"về khái niệm và tính đúng đắn (nếu có) của câu trả lời bạn đầu. Người học "
+"hoàn thành câu hỏi này với ba bước."
+
+#: ubcpi/static/js/src/ubcpi.js:125 ubcpi/static/js/src/ubcpi.js:261
+#: ubcpi/static/js/src/ubcpi.js:284 ubcpi/static/js/src/ubcpi.js:296
+msgid "Please refresh the page and try again!"
+msgstr "Vui lòng tải lại trang và thử lại!"
+
+#: ubcpi/static/html/ubcpi_edit.html:80
+msgid "Possible Answers <font color=\"red\">*</font>"
+msgstr "Các câu trả lời <font color=\"red\">*</font>"
+
+#: ubcpi/static/html/ubcpi_edit.html:28 ubcpi/ubcpi.py:291
+msgid "Problem Weight"
+msgstr "Trọng số câu hỏi"
+
+#: ubcpi/static/html/ubcpi_edit.html:52
+msgid ""
+"Provide alternative text - a description of the image for non-visual users. "
+"The description should provide all the information needed for someone to "
+"answer the question if the image did not load."
+msgstr ""
+"Cung cấp văn bản thay thế - một mô tả về hình ảnh cho người dùng không thể tải ảnh. "
+"Mô tả nên cung cấp tất cả thông tin cần thiết để người học trả lời nếu họ "
+"không tải được ảnh."
+
+#: ubcpi/static/html/ubcpi_edit.html:164
+msgid "Provide an explanation for this answer."
+msgstr "Cung cấp một giải thích cho câu trả lời này."
+
+#: ubcpi/static/html/ubcpi.html:12 ubcpi/static/html/ubcpi.html:164
+msgid "Question"
+msgstr "Câu hỏi"
+
+#: ubcpi/static/html/ubcpi_edit.html:36
+msgid "Question Text <font color=\"red\">*</font>"
+msgstr "Nội dung câu hỏi <font color=\"red\">*</font>"
+
+#: ubcpi/static/html/ubcpi.html:179 ubcpi/static/html/ubcpi.html:28
+#: ubcpi/static/html/ubcpi.html:37
+msgid "Reflection"
+msgstr "Tham khảo"
+
+#: ubcpi/static/js/src/ubcpi.js:114
+msgid "Refreshing..."
+msgstr "Đang tải lại..."
+
+#: ubcpi/static/html/ubcpi_edit.html:161 ubcpi/static/html/ubcpi_edit.html:90
+msgid "Remove"
+msgstr "Xóa"
+
+#: ubcpi/static/html/ubcpi_edit.html:42
+msgid "Remove Image"
+msgstr "Xóa ảnh"
+
+#: ubcpi/static/html/ubcpi.html:181 ubcpi/static/html/ubcpi.html:30
+#: ubcpi/static/html/ubcpi.html:39
+msgid "Results"
+msgstr "Kết quả"
+
+#: ubcpi/static/html/ubcpi.html:117
+msgid "Revise Answer"
+msgstr "Sửa câu trả lời"
+
+#: ubcpi/static/html/ubcpi_edit.html:190
+msgid "Save"
+msgstr "Lưu"
+
+#: ubcpi/static/js/src/ubcpi_edit.js:159
+msgid "Saving"
+msgstr "Đang lưu"
+
+#: ubcpi/static/js/src/ubcpi.js:113
+msgid "Show other samples"
+msgstr "Hiển thị các mẫu khác"
+
+#: ubcpi/static/html/ubcpi.html:48
+msgid ""
+"Step 1) Give Initial Answer <span class=\"inline-hint\">You can change this "
+"answer later, if you change your mind.</span>"
+msgstr ""
+"Bước 1) Cho câu trả lời ban đầu <span class=\"inline-hint\">Bạn có thể thay đổi "
+"câu trả lời này nếu bạn đổi ý.</span>"
+
+#: ubcpi/static/html/ubcpi.html:49
+msgid ""
+"Step 2) Read Other Student Answers\n"
+"                            <p class=\"ubcpi-other-answers-instructions\" "
+"translate=\"\">These are randomly chosen samples of other student answers "
+"for this question. Read them and compare with your answer below. Then you "
+"may revise your answer, if you wish.</p>"
+msgstr ""
+"Bước 2) Đọc câu trả lời của những người học khác\n"
+"                            <p class=\"ubcpi-other-answers-instructions\" "
+"translate=\"\">Đây là các câu trả lời được chọn ngẫu nhiên từ những người học khác "
+". Hãy xem và so sánh với câu trả lời của bạn. Sau đó "
+"bạn có thể sửa lại câu trả lời của mình nếu bạn muốn.</p>"
+
+#: ubcpi/static/html/ubcpi.html:192
+msgid "Step 3) View Course-Wide Results"
+msgstr "Bước 3) Xem kết quả toàn khóa học"
+
+#: ubcpi/static/html/ubcpi.html:68
+msgid "Student Rationale"
+msgstr "Cơ sở lý luận của người học"
+
+#: ubcpi/static/html/ubcpi_edit.html:123
+msgid "Students see the explanation after seeing the final answer."
+msgstr "Người học xem giải thích sau khi xem câu trả lời cuối cùng."
+
+#: ubcpi/static/html/ubcpi.html:119
+msgid "Submit Answer"
+msgstr "Nộp câu trả lời"
+
+#: ubcpi/static/js/src/ubcpi.js:254
+msgid "Submitting"
+msgstr "Đang nộp"
+
+#: ubcpi/static/html/ubcpi_edit.html:81
+msgid ""
+"The answers appear as choices underneath the question, with a maximum of 10 "
+"allowed per question. Each answer may contain text, an image, or a "
+"combination of both. <br><br>To add another answer press the \"Add New Answer"
+"\" button. To remove an answer press the blue \"x\" next to the blue option "
+"you want to remove."
+msgstr ""
+"Các câu trả lời xuất hiện dưới dạng lựa chọn bên dưới câu hỏi, với tối đa 10 "
+"lựa chọn mỗi câu hỏi. Mỗi câu trả lời có thể bao gồm văn bản, hình ảnh, hoăc kết "
+"hợp cả hai. <br><br>Để thêm một câu trả lời khác, nhấn nút \"Thêm câu trả lời mới"
+"\". Để xóa một câu trả lời, nhấp nút \"x\" màu xanh bên cạnh lựa chọn màu xanh mà "
+"bạn muốn xóa."
+
+#: ubcpi/static/html/ubcpi_edit.html:37
+msgid ""
+"The question appears above the possible answers that you set below. You can "
+"use text, an image, or a combination of both. If you wish to add an image to "
+"your question, press the \"Add Image To Question\" button."
+msgstr ""
+"Câu hỏi xuất hiện bên trên các câu trả lời mà bạn cài đặt bên dưới. Bạn có thể "
+"sử dụng văn bản, hình ảnh hoặc kết hợp cả hai. Nếu bạn muốn thêm một hình ảnh vào "
+"câu hỏi, nhấn nút \"Thêm hình ảnh vào câu hỏi\"."
+
+#: ubcpi/static/html/ubcpi.html:50
+msgid ""
+"These are randomly chosen samples of other student answers for this "
+"question. Read them and compare with your answer below. Then you may revise "
+"your answer, if you wish."
+msgstr ""
+"Đây là các câu trả lời được lựa chọn một cách ngẫu nhiên từ những người học khác. "
+"Hãy xem và so sanh với câu trả lời của bạn. Sau đó bạn có thể sửa "
+"câu trả lời của mình nếu muốn."
+
+#: ubcpi/static/html/ubcpi.html:193
+msgid ""
+"This is a look at how your classmates answered the question initially and "
+"after revision."
+msgstr ""
+"Đây là cách các bạn cùng lớp trả lời câu hỏi ban đầu và sau khi sửa."
+
+#: ubcpi/static/html/ubcpi_edit.html:70
+msgid ""
+"This is the maximum number of characters the student explanations may "
+"contain."
+msgstr "Đây là số ký tự tối đa mà giải thích của người học có thể chứa."
+
+#: ubcpi/static/html/ubcpi_edit.html:63
+msgid ""
+"This is the minimum number of characters the student explanations must "
+"contain."
+msgstr "Đây là số ký tự tối thiểu mà giải thích của người học phải có."
+
+#: ubcpi/static/html/ubcpi_edit.html:141
+msgid ""
+"This is the number of examples shown on screen to the students after they "
+"answer. Students can choose to refresh for some other samples. Enter the # "
+"symbol to use the same number as the answer possibilities you've set."
+msgstr ""
+"Đây là số lượng câu trả lời mà người học có thể xem sau khi trả lời. "
+"Người học có thể chọn làm mới dữ liệu (refresh) để xem các câu trả lời khác. "
+"Nhập # để sử dụng cùng số với số câu trả lời bạn đã cài đặt."
+
+#: ubcpi/static/html/ubcpi_edit.html:19
+msgid "This name appears in the horizontal navigation at the top of the page."
+msgstr "Tên này xuất hiện ở thanh điều hướng ngang ở đầu trang."
+
+#: ubcpi/static/html/ubcpi_edit.html:48 ubcpi/static/html/ubcpi_edit.html:93
+msgid ""
+"Upload a file first by clicking Content, then Files and Uploads. Then copy "
+"the Studio URL. Paste that into the text field here."
+msgstr "Dán đường dẫn tập tin tải lên vào đây."
+
+#: ubcpi/static/html/ubcpi.html:130
+msgid "View Question Statistics"
+msgstr "Xem thống kê câu hỏi"
+
+#: ubcpi/static/html/ubcpi.html:88
+msgid "Warning"
+msgstr "Cảnh báo"
+
+#: ubcpi/static/html/ubcpi.html:115
+msgid "What would you like to do?"
+msgstr "Bạn muốn làm gì?"
+
+#: ubcpi/static/html/ubcpi.html:82
+msgid ""
+"You are approaching the limit of {{rationale_size.max}} characters for this "
+"answer. Characters left: {{rationale_size.max - rc.rationale.length}}"
+msgstr ""
+"Bạn sắp đạt đến giới hạn {{rationale_size.max}} ký tự cho câu trả lời này. "
+"Số ký tự còn lại: {{rationale_size.max - rc.rationale.length}}"
+
+#: ubcpi/static/html/ubcpi_edit.html:188
+msgid "You are unable to save this form as there are errors:"
+msgstr "Bạn không thể lưu mẫu này do có lỗi:"
+
+#: ubcpi/static/html/ubcpi.html:112
+msgid "You:"
+msgstr "Bạn:"
+
+#: ubcpi/static/html/ubcpi.html:90
+msgid ""
+"Your explanation must be at least {{rationale_size.min}} characters long. "
+"Please explain further."
+msgstr ""
+"Giải thích của bạn phải có ít nhất {{rationale_size.min}} ký tự. "
+"Vui lòng nhập thêm."
+
+#: ubcpi/static/html/ubcpi.html:91
+msgid ""
+"Your explanation must contain fewer than {{rationale_size.max}} characters. "
+"Please trim the text."
+msgstr ""
+"Giải thích của bạn phải ít hơn {{rationale_size.max}} ký tự. "
+"Vui lòng nhập ngắn hơn."
+
+#: ubcpi/static/html/ubcpi.html:218
+msgid "Your final explanation:"
+msgstr "Giải thích cuối cùng của bạn:"
+
+#: ubcpi/answer_pool.py:128
+msgid "Option "
+msgstr "Lựa chọn "
+
+#: ubcpi/answer_pool.py:132
+msgid "Missing option seed(s): "
+msgstr "Thiếu lựa chọn: "
+
+#: ubcpi/answer_pool.py:148
+msgid "Missing 1 option seed"
+msgstr "Thiếu 1 lựa chọn"
+
+#: ubcpi/serialize.py:95
+msgid "Question must have text element."
+msgstr "Câu hỏi phải có văn bản."
+
+#: ubcpi/serialize.py:131
+msgid "Missing options elements in XML definition"
+msgstr "Thiếu lựa chọn trong định nghĩa XML"
+
+#: ubcpi/serialize.py:139
+msgid "Option must have text element."
+msgstr "Lựa chọn phải có văn bản."
+
+#: ubcpi/serialize.py:151
+msgid "Missing rationale for correct answer."
+msgstr "Thiếu cơ sở lý luận cho câu trả lời đúng."
+
+#: ubcpi/serialize.py:153
+msgid "Only one correct answer can be defined in options."
+msgstr "Chỉ có thể chọn một câu trả lời đúng."
+
+#: ubcpi/serialize.py:191
+msgid "Seed element must have an option attribute."
+msgstr "Seed element phải có tùy chọn."
+
+#: ubcpi/serialize.py:217
+msgid "Every peer instruction tool must contain an \"ubcpi\" element."
+msgstr "Mỗi công cụ hướng dẫn đồng đẳng phải bao gồm một thành phần \"ubcpi\"."
+
+#: ubcpi/serialize.py:221
+msgid "Every peer instruction tool must contain a \"display_name\" element."
+msgstr "Mỗi công cụ hướng dẫn đồng đẳng phải bao gồm một thành phần \"display_name\"."
+
+#: ubcpi/serialize.py:230
+msgid "Every peer instruction must tool contain a \"question\" element."
+msgstr "Mỗi công cụ hướng dẫn đồng đẳng phải bao gồm một thành phần \"question\"."
+
+#: ubcpi/serialize.py:236
+msgid "Every peer instruction must tool contain a \"options\" element."
+msgstr "Mỗi công cụ hướng dẫn đồng đẳng phải bao gồm một thành phần \"options\"."
+
+#: ubcpi/serialize.py:242
+msgid "Every peer instruction must tool contain a \"seeds\" element."
+msgstr "Mỗi công cụ hướng dẫn đồng đẳng phải bao gồm một thành phần \"seeds\"."
+
+#: ubcpi/ubcpi.py:66 ubcpi/ubcpi.py:69 ubcpi/ubcpi.py:71
+msgid "Minimum Characters"
+msgstr "Số ký tự tối thiểu"
+
+#: ubcpi/ubcpi.py:68 ubcpi/ubcpi.py:69 ubcpi/ubcpi.py:71
+msgid "Maximum Characters"
+msgstr "Số ký tự tối đa"
+
+#: ubcpi/ubcpi.py:74
+msgid "Number of Responses"
+msgstr "Số câu trả lời"
+
+#: ubcpi/ubcpi.py:76
+msgid "Not an Integer"
+msgstr "Không phải một số nguyên"
+
+#: ubcpi/ubcpi.py:81
+msgid "Invalid Option(s): "
+msgstr "Lựa chọn không hợp lệ"
+
+#: ubcpi/ubcpi.py:192
+msgid "Peer Instruction Question"
+msgstr "Câu hỏi Hướng dẫn đồng đẳng"
+
+#: ubcpi/ubcpi.py:195
+msgid "<p>Where does most of the mass in a fully grown tree originate?</p>"
+msgstr "<p>Hầu hết khối lượng trong một cây phát triển đầy đủ bắt nguồn từ đâu?</p>"
+
+#: ubcpi/ubcpi.py:198
+msgid ""
+"The question the students see. This question appears above the possible "
+"answers which you set below. You can use text, an image or a combination of "
+"both. If you wish to add an image to your question, press the 'Add Image' "
+"button."
+msgstr ""
+"Câu hỏi người học thấy. Câu hỏi này xuất hiện phía trên các câu trả lời "
+"mà bạn cài đặt bên dưới. Bạn có thể sử dụng văn bản, hình ảnh hoặc kết hợp cả hai. "
+"Nếu bạn muốn thêm hình ảnh vào câu hỏi, nhấn nút 'Thêm hình ảnh'."
+
+#: ubcpi/ubcpi.py:205
+msgid "Air"
+msgstr "Không khí"
+
+#: ubcpi/ubcpi.py:206
+msgid "Soil"
+msgstr "Đất"
+
+#: ubcpi/ubcpi.py:207
+msgid "Water"
+msgstr "Nước"
+
+#: ubcpi/ubcpi.py:210
+msgid "The possible options from which the student may select"
+msgstr "Các lựa chọn mà người học có thể chọn"
+
+#: ubcpi/ubcpi.py:215
+msgid ""
+"The minimum and maximum number of characters a student is allowed for their "
+"rationale."
+msgstr ""
+"Số ký tự tối thiểu và tối đa cho giải thích của người học."
+
+#: ubcpi/ubcpi.py:220
+msgid "The correct option for the question"
+msgstr "Câu trả lời đúng"
+
+#: ubcpi/ubcpi.py:224
+msgid "Photosynthesis"
+msgstr "Quang hợp"
+
+#: ubcpi/ubcpi.py:225
+msgid "The feedback for student for the correct answer"
+msgstr "Nhận xét cho người học cho câu trả lời đúng"
+
+#: ubcpi/ubcpi.py:230
+msgid "Overall stats for the instructor"
+msgstr "Thống kê chung cho người dạy"
+
+#: ubcpi/ubcpi.py:234
+msgid "Tree gets carbon from air."
+msgstr "Cây lấy carbon từ không khí."
+
+#: ubcpi/ubcpi.py:235
+msgid "Tree gets minerals from soil."
+msgstr "Cây lấy chất khoáng từ đất"
+
+#: ubcpi/ubcpi.py:236
+msgid "Tree drinks water."
+msgstr "Cây hút nước"
+
+#: ubcpi/ubcpi.py:239
+msgid ""
+"Instructor configured examples to give to students during the revise stage."
+msgstr "Giáo viên cấu hình ví dụ để cung cấp cho sinh viên trong giai đoạn sửa đổi câu trả lời."
+
+#: ubcpi/ubcpi.py:253
+msgid "System selected answers to give to students during the revise stage."
+msgstr "Các câu trả lời được hệ thống chọn để đưa cho người học trong giai đoạn "
+"sửa đổi câu trả lời."
+
+#: ubcpi/ubcpi.py:258
+msgid ""
+"Stores the specific answers of other students shown, for a given student."
+msgstr "Lưu trữ các câu trả lời cụ thể của các học sinh khác được hiển thị, cho một học sinh nhất định."
+
+#: ubcpi/ubcpi.py:263
+msgid ""
+"In case the student requested to see more answers, these are the answers "
+"previously shown."
+msgstr "Trường hợp người học yêu cầu xem thêm đáp án thì đây là những đáp án đã thể hiện trước đó."
+
+#: ubcpi/ubcpi.py:268
+msgid "Keep track of the number of refreshes for each option"
+msgstr "Theo dõi số lần làm mới cho từng tùy chọn"
+
+#: ubcpi/ubcpi.py:273
+msgid "The algorithm for selecting which answers to be presented to students"
+msgstr "Thuật toán chọn câu trả lời sẽ được trình bày cho người học"
+
+#: ubcpi/ubcpi.py:280
+msgid ""
+"ISO-8601 formatted string representing the start date of this assignment. We "
+"ignore this."
+msgstr "Chuỗi định dạng ISO-8601 đại diện cho ngày bắt đầu của bài tập này. Chúng ta bỏ qua điều này."
+
+#: ubcpi/ubcpi.py:285
+msgid ""
+"ISO-8601 formatted string representing the due date of this assignment. We "
+"ignore this."
+msgstr "Chuỗi định dạng ISO-8601 đại diện cho ngày đến hạn của bài tập này. Chúng ta bỏ qua điều này."
+
+#: ubcpi/ubcpi.py:380
+msgid "System will select one of each option to present to the students."
+msgstr "Hệ thống sẽ chọn một trong mỗi tùy chọn để hiển thị cho người học."
+
+#: ubcpi/ubcpi.py:381
+msgid "Completely random selection from the response pool."
+msgstr "Lựa chọn hoàn toàn ngẫu nhiên từ các câu trả lời."
+
+#: ubcpi/ubcpi.py:384
+msgid "Appears above"
+msgstr "Xuất hiện bên trên"
+
+#: ubcpi/ubcpi.py:385
+msgid "Appears below"
+msgstr "Xuất hiện bên dưới"
